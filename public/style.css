@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+   
+}
+.item{
+    display: flex;
+    flex-direction: row;
+
+}
+.item>*{
+    margin: 0;
+    margin-left:10px;
+}
+p{
+    text-align: center
+}
+
+span{
+    color: red;
+    cursor: pointer;
+}
